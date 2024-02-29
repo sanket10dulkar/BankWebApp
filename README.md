@@ -1,5 +1,5 @@
 **BankWebApp**
-BankWebApp is an application where users can deposit or withdraw amounts.
+is an application where users can deposit or withdraw amounts.
 
 **Technologies Used:**
 Solidity: The code is written in Solidity and can be deployed and run in Remix IDE.
