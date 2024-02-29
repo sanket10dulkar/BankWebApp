@@ -13,7 +13,7 @@ While deploying and running the contract in Remix IDE, select Environment as "In
 Don't forget to connect with your MetaMask Wallet.
 Also change the Contract Address with your own deployed contract.
 Inside Visual Studio, run the following commands:
-1. _npm install -g http-server
-2. http-server_
+1. npm install -g http-server
+2. http-server
 
 Open a web browser and enter the following URL: http://localhost:8080/
