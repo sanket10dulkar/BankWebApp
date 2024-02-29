@@ -1,3 +1,5 @@
+
+//Open Visual Studio and paste below code
 //Save file as index.html
 
 <!DOCTYPE html>
