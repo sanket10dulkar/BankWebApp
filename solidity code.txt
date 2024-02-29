@@ -1,4 +1,3 @@
-//Use Environemt >> Injected Provider- MetaMask
 
 pragma solidity 0.4.25;
 
