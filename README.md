@@ -11,7 +11,7 @@ is an application where users can deposit or withdraw amounts.
 Make sure you have MetaMask installed and configured.
 While deploying and running the contract in Remix IDE, select Environment as "Injected Provider - MetaMask".
 Don't forget to connect with your MetaMask Wallet.
-
+Also change the Contract Address with your own deployed contract.
 Inside Visual Studio, run the following commands:
 1. _npm install -g http-server
 2. http-server_
